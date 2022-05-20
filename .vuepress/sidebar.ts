@@ -13,7 +13,7 @@ export const sidebar: SidebarConfig = {
     '/linux/garuda.md',
     '/linux/gpg.md',
     '/linux/nala.md',
-    '/linux/ubuntu22.04.md',
+    '/linux/ubuntu.md',
     '/linux/zsh',
   ],
   '/misc': [

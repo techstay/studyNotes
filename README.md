@@ -18,7 +18,7 @@
   - [garuda](linux/garuda.md)，一个界面炫酷的 arch 衍生版
   - [gpg 隐私工具](linux/gpg.md)
   - [nala](linux/nala.md)，高颜值的 apt 替代
-  - [ubuntu 22.04 安装笔记](linux/ubuntu22.04.md)
+  - [ubuntu 22.04 安装笔记](linux/ubuntu.md)
   - [zsh](linux/zsh/README.md)
 - [杂项 misc 笔记](misc/README.md)
   - [keepassxc](misc/keepassxc.md)，跨平台的本地密码管理器
