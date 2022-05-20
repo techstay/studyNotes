@@ -8,6 +8,7 @@ export const sidebar: SidebarConfig = {
     '/linux/README.md',
     '/linux/archlinux.md',
     '/linux/asciinema.md',
+    '/linux/fedora.md',
     '/linux/fish.md',
     '/linux/garuda.md',
     '/linux/gpg.md',
