@@ -12,6 +12,7 @@
 
 - [linux 笔记](linux/README.md)
   - [archlinux 的安装和配置](linux/archlinux.md)
+  - [archlinuxgui](linux/archlinuxgui.md)，面向新手的图形化 archlinux 安装和配置
   - [asciinema linux 终端录屏工具](linux/asciinema.md)
   - [fedora](linux/fedora.md)
   - [fish](linux/fish.md)
